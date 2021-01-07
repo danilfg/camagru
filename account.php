@@ -9,9 +9,8 @@
     <title>Camagru Forever</title>
 </head>
 <body>
-
     <?php require('src/header.php'); ?>
-    <?php require('src/content.php'); ?>
+
     <?php require('src/footer.php'); ?>
 </body>
 </html>
